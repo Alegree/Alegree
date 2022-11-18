@@ -4,7 +4,7 @@
 
 - 🧐 I am an aspiring dev who is young and still learning the basics
 - ❤️ I love to help support some basic Fivem Development issues and scripting for the same
-- 💻 I quite like in my spare time to do some coding about random things
+- 💻 I like in my free time to do some coding about random things
 - 🛒 <a href="https://alegre-scritps.tebex.io" target="_blank"> My Fivem Scripts shop! 
       
 ##
