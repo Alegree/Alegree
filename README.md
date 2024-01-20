@@ -7,9 +7,10 @@
       
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegree&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegree&show_icons=true&theme=nord)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alegree&theme=nord&count_private=true&hide=Jupyter%20Notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alegree&theme=nord&count_private=true&)
+)
 
 ##
       
