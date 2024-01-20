@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegree&show_icons=true)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alegree&theme=nord&count_private=true&hide=Jupyter%20Notebook)
 
 ##
       
