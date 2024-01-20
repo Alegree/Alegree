@@ -7,7 +7,7 @@
       
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alegree&show_icons=true&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alegree&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
