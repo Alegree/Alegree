@@ -19,4 +19,4 @@
         
 ### 📚 Current working on:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,mysql,wordpress,windows,vscode,r,matlab,latex,idea,gcp,figma,dotnet,docker,c,apple)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,java,php,mysql,wordpress,windows,vscode,r,matlab,latex,idea,gcp,figma,dotnet,docker,c,apple)
