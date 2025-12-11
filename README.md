@@ -5,12 +5,6 @@
 - I am an aspiring dev who is young and still learning the basics
 - I like in my free time to do some coding about random things
       
-##
-
-// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alegree&show_icons=true&theme=dark)
-  
-// ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alegree&theme=dark&count_private=true&)
-
 
 ##
       
