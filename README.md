@@ -2,7 +2,6 @@
 
 ##
 
-- I am an aspiring dev who is young and still learning the basics
 - I like in my free time to do some coding about random things
       
 
